@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurneet1928&label=Profile%20views&color=0e75b6&style=flat" alt="gurneet1928" /> </p>
 
-- 🌱 I’m currently learning **Python, Django, Flash, Machine Learning and AI**
+- 🌱 I’m currently learning **Python, Django, Flask, Machine Learning and AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gurneet1928](https://github.com/Gurneet1928)
 
