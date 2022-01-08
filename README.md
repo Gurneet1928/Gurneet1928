@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Gurneet Singh this side</h1>
+<h1 align="center"> Gurneet Singh</h1>
 <h3 align="center">A simple boy with big dreams. Having interest(a lot of) in tech, softwares,coding,etc.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurneet1928&label=Profile%20views&color=0e75b6&style=flat" alt="gurneet1928" /> </p>
